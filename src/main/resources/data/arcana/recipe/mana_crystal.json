@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["arcana:arcane_crystal", "minecraft:glowstone_dust"],
+  "result": {"id": "arcana:mana_crystal", "count": 1}
+}
