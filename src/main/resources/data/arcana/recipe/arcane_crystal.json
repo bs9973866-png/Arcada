@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["minecraft:amethyst_shard", "minecraft:lapis_lazuli", "minecraft:redstone"],
+  "result": {"id": "arcana:arcane_crystal", "count": 2}
+}
