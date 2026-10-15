@@ -1,0 +1,20 @@
+{
+  "itemGroup.arcana": "Аркана",
+  "item.arcana.arcane_crystal": "Тайный кристалл",
+  "item.arcana.mana_crystal": "Кристалл маны",
+  "item.arcana.arcane_staff": "Тайный посох",
+  "block.arcana.mana_altar": "Алтарь маны",
+  "spell.arcana.arcane_bolt": "Тайный снаряд",
+  "spell.arcana.heal": "Исцеление",
+  "spell.arcana.blink": "Скачок",
+  "spell.arcana.fire_nova": "Огненная нова",
+  "spell.arcana.storm": "Буря",
+  "hud.arcana.mana": "Мана %s/%s  Ур.%s",
+  "message.arcana.level_up": "Новый уровень! Теперь у вас %s уровень.",
+  "message.arcana.mana_restored": "Мана восстановлена",
+  "message.arcana.no_mana": "Не хватает маны",
+  "message.arcana.low_level": "Нужен уровень %s",
+  "message.arcana.spell_selected": "Заклинание: %s",
+  "message.arcana.info": "Уровень %s | Мана %s/%s | Опыт %s/%s | Заклинание: %s",
+  "message.arcana.spell_line": "%s - цена %s, уровень %s"
+}
