@@ -1,0 +1,20 @@
+{
+  "itemGroup.arcana": "Arcana",
+  "item.arcana.arcane_crystal": "Arcane Crystal",
+  "item.arcana.mana_crystal": "Mana Crystal",
+  "item.arcana.arcane_staff": "Arcane Staff",
+  "block.arcana.mana_altar": "Mana Altar",
+  "spell.arcana.arcane_bolt": "Arcane Bolt",
+  "spell.arcana.heal": "Heal",
+  "spell.arcana.blink": "Blink",
+  "spell.arcana.fire_nova": "Fire Nova",
+  "spell.arcana.storm": "Storm",
+  "hud.arcana.mana": "Mana %s/%s  Lv.%s",
+  "message.arcana.level_up": "Level up! You are now level %s.",
+  "message.arcana.mana_restored": "Mana restored",
+  "message.arcana.no_mana": "Not enough mana",
+  "message.arcana.low_level": "Requires level %s",
+  "message.arcana.spell_selected": "Spell: %s",
+  "message.arcana.info": "Level %s | Mana %s/%s | XP %s/%s | Spell: %s",
+  "message.arcana.spell_line": "%s - cost %s, level %s"
+}
