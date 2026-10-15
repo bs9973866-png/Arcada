@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": ["CCC", "OEO", "OOO"],
+  "key": {"C": "arcana:arcane_crystal", "O": "minecraft:obsidian", "E": "minecraft:enchanting_table"},
+  "result": {"id": "arcana:mana_altar", "count": 1}
+}
